@@ -1,7 +1,7 @@
 # python=3.8.8
 
 fastapi
-nltk==3.6.3
+nltk==3.6.6
 numpy<1.24
 pandas
 python-dotenv
